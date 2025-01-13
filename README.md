@@ -2,7 +2,8 @@
 ### Description
 This project demonstrates how to create a user-friendly login and registration page using HTML, CSS, and JavaScript. The design includes an aesthetically pleasing layout with a responsive form, modern styling, and interactivity for enhanced user experience.
 
-![Uploading image.png…]()
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/999ae90d-34cb-4c3e-998e-b0acdb922ff4" />
+
 
 
 ### Features
